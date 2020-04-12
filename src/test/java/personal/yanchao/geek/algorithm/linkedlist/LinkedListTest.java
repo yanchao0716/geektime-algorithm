@@ -62,4 +62,6 @@ public class LinkedListTest {
         System.out.println(list.contains(3));
         System.out.println(list.contains(4));
     }
+
+
 }
