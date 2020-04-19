@@ -1,12 +1,8 @@
-package personal.yanchao.geek.algorithm.linkedlist;
+package personal.yanchao.geektime.algorithm.linkedlist;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
-import java.util.List;
-
-import static org.junit.Assert.*;
 
 /**
  * zhuyanchao  2020-04-11

@@ -1,4 +1,4 @@
-package personal.yanchao.geek.algorithm.linkedlist;
+package personal.yanchao.geektime.algorithm.linkedlist;
 
 import org.junit.After;
 import org.junit.Before;

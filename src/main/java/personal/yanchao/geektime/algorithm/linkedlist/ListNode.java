@@ -1,4 +1,4 @@
-package personal.yanchao.geek.algorithm.linkedlist;
+package personal.yanchao.geektime.algorithm.linkedlist;
 
 /**
  * zhuyanchao  2020-04-11
